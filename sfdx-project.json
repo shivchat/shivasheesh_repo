@@ -1,0 +1,16 @@
+{
+  "packageDirectories" : [ {
+    "path" : "samplemodule",
+    "default" : true,
+    "package" : "samplemodule",
+    "versionName" : "samplemodule",
+    "versionNumber" : "1.0.0.0"
+  } ],
+  "namespace" : "",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "54.0",
+  "packageAliases" : {
+    "samplemodule" : "0HoIw00000000PpKAI",
+    "samplemodule@1.0.0.0" : "04tIw0000000TJtIAM"
+  }
+}
