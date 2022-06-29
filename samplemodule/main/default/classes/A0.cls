@@ -6,7 +6,7 @@ public Account createAccount(String name)  //method to create account
 
 {//comment source line4 srcmodififylast
 
-Account QD12345Test= new Account();
+Account QD123456Test= new Account();
 
 Account a01231111112331= new Account();
 
