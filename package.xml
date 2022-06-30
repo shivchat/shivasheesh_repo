@@ -66,6 +66,9 @@
         <members>reporttest1</members>
         <members>reporttest1/reporttest2</members>
         <members>reporttest1/reporttest2/New_Accounts_Report_HmP</members>
+        <members>rp1</members>
+        <members>rp1/rp2</members>
+        <members>rp1/rp2/repo1_QSB</members>
         <members>unfiled$public/flow_screen_prebuilt_report</members>
         <name>Report</name>
     </types>
