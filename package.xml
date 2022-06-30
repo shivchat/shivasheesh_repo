@@ -49,6 +49,12 @@
         <name>CustomObject</name>
     </types>
     <types>
+        <members>db1</members>
+        <members>db1/db2</members>
+        <members>db1/db2/BvhWXWSESnctWjQXdnJNDelTmYmFIS</members>
+        <name>Dashboard</name>
+    </types>
+    <types>
         <members>Account.AllAccounts</members>
         <members>Account.MyAccounts</members>
         <members>Account.NewLastWeek</members>
