@@ -57,9 +57,8 @@
         <name>ListView</name>
     </types>
     <types>
+        
         <members>EinsteinBotReports_v2</members>
-        <members>f1</members>
-        <members>f1/r1_pOV</members>
         <members>reports2</members>
         <members>reporttest01</members>
         <members>reporttest01/reporttest02/report1_0OU</members>
