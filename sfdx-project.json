@@ -3,7 +3,7 @@
     "path" : "force-app",
     "default" : true
   } ],
-  "namespace" : "",
+  "namespace" : "kcs_dev",
   "sfdcLoginUrl" : "https://login.salesforce.com",
   "sourceApiVersion" : "54.0"
 }
