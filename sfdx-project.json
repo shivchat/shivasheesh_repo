@@ -1,17 +1,16 @@
 {
-    "packageDirectories": [
-        {
-            "path": "force-app",
-            "default": true,
-            "package": "docpackage",
-            "versionName": "ver 0.1",
-            "versionNumber": "0.1.0.NEXT"
-        }
-    ],
-    "namespace": "kcs_dev",
-    "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "54.0",
-    "packageAliases": {
-        "docpackage": "0Ho0o000000blYdCAI"
-    }
+  "packageDirectories" : [ {
+    "path" : "force-app",
+    "default" : true,
+    "package" : "docpackage",
+    "versionName" : "ver 0.1",
+    "versionNumber" : "0.1.0.NEXT"
+  } ],
+  "namespace" : "kcs_dev",
+  "sfdcLoginUrl" : "https://login.salesforce.com",
+  "sourceApiVersion" : "54.0",
+  "packageAliases" : {
+    "docpackage" : "0Ho0o000000blYdCAI",
+    "docpackage@1.0.0.0" : "04t0o000002ZwuWAAS"
+  }
 }
