@@ -57,7 +57,9 @@
         <name>ListView</name>
     </types>
     <types>
-        
+        <members>AR46216</members>
+        <members>AR46216/ARSubfolder46216</members>
+        <members>AR46216/ARSubfolder46216/report123_D0Y</members>
         <members>EinsteinBotReports_v2</members>
         <members>reports2</members>
         <members>reporttest01</members>
