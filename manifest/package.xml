@@ -57,8 +57,12 @@
         <name>ListView</name>
     </types>
     <types>
-        
         <members>EinsteinBotReports_v2</members>
+        <members>nf1</members>
+        <members>nf1/nf2</members>
+        <members>nf1/nf2/nf3</members>
+        <members>nf1/nf2/nf3/report000_j8T</members>
+        <members>nf1/reportinner_W7O</members>
         <members>reports2</members>
         <members>reporttest01</members>
         <members>reporttest01/reporttest02/report1_0OU</members>
